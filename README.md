@@ -7,4 +7,3 @@ Hi, I'm Patrick Tourniaire, a passionate Artificial Intelligence and Computer Sc
 
 ![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=patricktourniaire&theme=shades-of-purple&show_icons=true)
 
-</a>
