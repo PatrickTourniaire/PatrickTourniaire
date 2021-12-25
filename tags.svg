@@ -15,15 +15,15 @@
           align-items: center;
           justify-content: center;
           gap: 5px;
-          padding: 5px 15px;
+          padding: 5px 5px;
           border-radius: 10px;
           font-weight: 500;
           font-size: 0.85rem;
           width: fit-content;
           white-space: nowrap;
           font-family:sans-serif;
-          background-color: #e3ffff;
-          color: #0ca4a5;
+          background-color: #fff;
+          color: #1869F8;
           margin: 0.125em;
         }
       </style>
