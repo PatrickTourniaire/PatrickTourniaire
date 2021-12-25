@@ -30,19 +30,24 @@
 
       <div class="tags">
         <div class="tag">Angular</div>
-        <div class="tag">Vue(X)</div>
-        <div class="tag">Svelte</div>
+        <div class="tag">React</div>
+        <div class="tag">HTML/CSS</div>
         <div class="tag">TypeScript</div>
       </div>
       <div class="tags">
-        <div class="tag">(S)CSS</div>
-        <div class="tag">Building UIs</div>
-        <div class="tag">Web Components</div>
+        <div class="tag">SCSS</div>
+        <div class="tag">AWS</div>
+        <div class="tag">Python</div>
+        <div class="tag">Machine Learning</div>
       </div>
       <div class="tags">
-        <div class="tag">Ionic</div>
-        <div class="tag">Electron</div>
+        <div class="tag">Machine Vision</div>
+        <div class="tag">Java</div>
         <div class="tag">.NET</div>
+        <div class="tag">Docker</div>
+      </div>
+      <div class="tags">
+        <div class="tag">Kubernetes</div>
       </div>
 
     </div>
