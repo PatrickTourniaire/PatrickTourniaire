@@ -14,6 +14,7 @@ Stack | `Angular` `OpenCV` `Python` `C#` `.NET5` `Entity Framework` `MySQL`
 
 ---
 
+<details>
 <summary>🏗 | **Fullstack Development Intern @ AF Group ASA** | June 2020 - August 2020</summary>
 <br>
 Worked on building a centralised web platform for data collection and analysis, replacing unorganised spreadsheets across projects. Responsible for creating automatic data pipelines which made the data collection process 85\% faster.
