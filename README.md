@@ -9,7 +9,7 @@ I am a master's student in Artificial Intelligence & Advanced Visual Computing a
 <details>
 <summary>👻 | ML Engineer @ Undisclosed Organisation | June 2022 - December 2023</summary>
 <br>
-Worked and part-time whilst studying at the University of Edinburgh and full-time between study years. Working mainly in internal ML R&D and producing proofs of concept for relevant stakeholders.
+Worked part-time whilst studying at the University of Edinburgh and full-time during summer breaks. Mainly in internal ML R&D projects and producing proof of concepts for relevant stakeholders.
 
 Stack | `PyTorch` `HuggingFace` `Python` `Apache Kafka` `Faust` `Docker` `PostgreSQL` `Elastic Vector DB` `DVC` `Azure ML Compute`
 </details>
