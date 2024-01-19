@@ -1,8 +1,20 @@
 ## Hi there, I'm Patrick Tourniaire 👋
 
-Hi, I'm Patrick Tourniaire and I am currently in my 4th and final year, studying BSc Artificial Intelligence & Computer Science at the University of Edinburgh. 
+Hi there! 👋
+
+I am a master's student in Artificial Intelligence & Advanced Visual Computing at École Polytechnique, one of the leading engineering schools in France and Europe. I have a strong background in Artificial Intelligence & Computer Science, having graduated with a first class honours degree from the University of Edinburgh. I am passionate about learning new technologies and techniques in AI/ML, and I am eager to apply them to real-world problems and opportunities.
 
 ## Experience
+
+<details>
+<summary>👻 | ML Engineer @ Undisclosed Organisation | June 2022 - December 2023</summary>
+<br>
+Worked and part-time whilst studying at the University of Edinburgh and full-time between study years. Working mainly in internal ML R&D and producing proofs of concept for relevant stakeholders.
+
+Stack | `PyTorch` `HuggingFace` `Python` `Apache Kafka` `Faust` `Docker` `PostgreSQL` `Elastic Vector DB` `DVC` `Azure ML Compute`
+</details>
+
+---
 
 <details>
 <summary>🚇 | Fullstack Development Intern @ AF Group ASA | June 2021 - August 2021</summary>
@@ -24,8 +36,8 @@ Stack | `Angular` `Azure` `Azure Pipelines` `C#` `TypeScript`
 
 ---
 
-## Current Projects
-🚀 | **Co-Founder and CTO @ Freelent Inc.** | June 2021 - Present
+## Startups
+🚀 | **Co-Founder and CTO @ Freelent Inc.** | June 2021 - June 2022
 
 A modern recruitment platform for companies to find top tech talent at Universities and use recruitment methods based on teamwork and communication instead of old-fashioned competitive recruitment processes.
 
